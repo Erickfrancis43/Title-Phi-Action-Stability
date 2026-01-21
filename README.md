@@ -35,7 +35,7 @@ Instead of seeking a single universal correlation, this work focuses on the **Re
 
 ## 📂 Repository Structure
 
-- `preprint_micro_revisao.pdf`: The full 38-page scientific paper.
+- `preprint_micro_revisao.pdf`: The full 40-page scientific paper.
 - `data/` 2026-01-20: Datasets derived from the Particle Data Group (PDG) used for calculations.
 - `scripts/` (Optional): Python/Ubuntu scripts used for residual analysis and visualization.
 
