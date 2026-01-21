@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18320577.svg)](https://doi.org/10.5281/zenodo.18320577)
+
 # Title-Phi-Action-Stability
 Theoretical research on the breakdown of linear mass-lifetime scaling. Introducing the Phi (\Phi) action-density metric to evaluate particle stability. Analysis of the Standard Model identifies a catastrophic "Insolvency Signature" in heavy bosons, establishing a critical threshold for fundamental matter.
 # A Microfundamental Organizational Action Field
@@ -34,7 +36,7 @@ Instead of seeking a single universal correlation, this work focuses on the **Re
 ## 📂 Repository Structure
 
 - `preprint_micro_revisao.pdf`: The full 38-page scientific paper.
-- `data/` (Optional): Datasets derived from the Particle Data Group (PDG) used for calculations.
+- `data/` 2026-01-20: Datasets derived from the Particle Data Group (PDG) used for calculations.
 - `scripts/` (Optional): Python/Ubuntu scripts used for residual analysis and visualization.
 
 ## 📝 Abstract
